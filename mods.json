@@ -1,0 +1,16 @@
+{
+  "mods": [
+    {
+      "name": "AzuAnticheat.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/AzuAnticheat.dll",
+      "type": "plugins",
+      "version": "1.0.0"
+    },
+    {
+      "name": "season.zip",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/config/season.zip",
+      "type": "config",
+      "version": "1.0.0"
+    }
+  ]
+}

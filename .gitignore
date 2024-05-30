@@ -1,0 +1,17 @@
+# Ignorer les fichiers de configuration de l'éditeur
+.vscode/
+.idea/
+
+# Ignorer les fichiers de build
+/build/
+out/
+Seasonality/
+
+# Ignorer les fichiers temporaires
+*.tmp
+*.log
+
+
+# Ignorer les fichiers desktop.ini
+desktop.ini
+Seasonality.zip
