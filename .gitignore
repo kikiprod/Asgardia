@@ -5,7 +5,6 @@
 # Ignorer les fichiers de build
 /build/
 out/
-Seasonality/
 
 # Ignorer les fichiers temporaires
 *.tmp
@@ -14,4 +13,3 @@ Seasonality/
 
 # Ignorer les fichiers desktop.ini
 desktop.ini
-Seasonality.zip
