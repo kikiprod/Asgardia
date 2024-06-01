@@ -13,6 +13,12 @@
       "version": "1.0.0"
     },
     {
+      "name": "MarketplaceAndServerNPCsRevamped.zip",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/MarketplaceAndServerNPCsRevamped.zip",
+      "type": "config",
+      "version": "1.0.0"
+    },
+    {
       "name": "Seasonality.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/Seasonality.dll",
       "type": "plugins",
