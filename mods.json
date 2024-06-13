@@ -1,0 +1,58 @@
+{
+  "mods": [
+    {
+      "name": "AzuAnticheat.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/AzuAnticheat.dll",
+      "type": "plugins",
+      "version": "1.0.0"
+    },
+    {
+      "name": "EquipmentAndQuickSlots.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/EquipmentAndQuickSlots.dll",
+      "type": "plugins",
+      "version": "1.0.0"
+    },
+    {
+      "name": "MarketplaceAndServerNPCsRevamped.zip",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/MarketplaceAndServerNPCsRevamped.zip",
+      "type": "plugins",
+      "version": "1.0.0"
+    },
+    {
+      "name": "Seasonality.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/Seasonality.dll",
+      "type": "plugins",
+      "version": "1.0.0"
+    },
+    {
+      "name": "Seasonality.zip",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/config/Seasonality.zip",
+      "type": "config",
+      "version": "1.0.0"
+    },
+    {
+      "name": "QuickConnect.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/QuickConnect.dll",
+      "type": "plugins",
+      "version": "1.0.0"
+    },
+    {
+      "name": "quick_connect_servers.cfg",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/config/quick_connect_servers.cfg",
+      "type": "config",
+      "version": "1.0.0"
+    },
+    {
+      "name": "CW_Jesse.BetterNetworking.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/CW_Jesse.BetterNetworking.dll",
+      "type": "plugins",
+      "version": "1.0.0"
+    },
+    {
+      "name": "CW_Jesse.BetterNetworking.cfg",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/config/CW_Jesse.BetterNetworking.cfg",
+      "type": "config",
+      "version": "1.0.0"
+    }
+  ]
+}
