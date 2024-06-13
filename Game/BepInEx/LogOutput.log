@@ -1,0 +1,1096 @@
+[Message:   BepInEx] BepInEx 5.4.22.0 - valheim (14/04/2024 11:06:20)
+[Message:   BepInEx] User is running BepInExPack Valheim version 5.4.2202 from Thunderstore
+[Info   :   BepInEx] Running under Unity v2022.3.17.5228416
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 2 plugins to load
+[Info   :   BepInEx] Loading [Valheim Plus 0.9.13.0]
+[Info   :Valheim Plus] Valheim Plus full version: 0.9.13.0
+[Info   :Valheim Plus] Valheim Plus dll file location: 'D:\SteamLibrary\steamapps\common\Valheim\BepInEx\plugins\ValheimPlus.dll'
+[Info   :Valheim Plus] Trying to load the configuration file
+[Warning:Valheim Plus] Error: Configuration not found at: 'D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\valheim_plus.cfg'. Trying to download latest config.
+[Info   :Valheim Plus] Downloading config from: 'https://github.com/Grantapher/ValheimPlus/releases/download/0.9.13.0/valheim_plus.cfg'
+[Info   :Valheim Plus] Default Configuration downloaded to 'D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\valheim_plus.cfg'. Loading downloaded default settings.
+[Info   :Valheim Plus] [Server] Updating serverSyncHotkeys from True to False
+[Info   :Valheim Plus] Configuration file loaded succesfully.
+[Info   :Valheim Plus] Applying patches.
+[Info   :Valheim Plus] Patches successfully applied.
+[Info   :Valheim Plus] ValheimPlus [0.9.13.0] is up to date.
+[Info   :Valheim Plus] ValheimPlus done loading.
+[Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.2]
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] Privilege Multiplayer is not known on this platform. Privilege therefore is granted without check...
+[Info   : Unity Log] Privilege UserGeneratedContent is not known on this platform. Privilege therefore is granted without check...
+[Info   : Unity Log] Privilege CrossPlay is not known on this platform. Privilege therefore is granted without check...
+[Info   : Unity Log] 05/15/2024 20:52:04: Set background loading budget to Low
+
+[Warning: Unity Log] 05/15/2024 20:52:04: Fetching PlatformPrefs 'GuiScale' before loading defaults
+
+[Warning: Unity Log] 05/15/2024 20:52:04: Fetching PlatformPrefs 'GuiScale' before loading defaults
+
+[Info   : Unity Log] 05/15/2024 20:52:04: Starting to load scene:start.unity (169d7618616154c03be07e9ad3af5893)
+
+[Info   : Unity Log] 05/15/2024 20:52:04: Set background loading budget to Normal
+
+[Info   : Unity Log] 05/15/2024 20:52:08: Set background loading budget to High
+
+[Info   : Unity Log] 05/15/2024 20:52:34: Set background loading budget to Low
+
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Warning: Unity Log] 05/15/2024 20:52:35: Missing audio clip in music respawn
+
+[Info   : Unity Log] 05/15/2024 20:52:35: Using environment steamid 892970
+
+[Info   : Unity Log] 05/15/2024 20:52:35: Using steam APPID:892970
+
+[Info   : Unity Log] 05/15/2024 20:52:35: Authentication:k_ESteamNetworkingAvailability_Attempting
+
+[Info   : Unity Log] 05/15/2024 20:52:35: Steam initialized, persona:StarKillerZ
+
+[Info   : Unity Log] 05/15/2024 20:52:35: PlayFab custom ID set to "Steam_76561198033930668"
+
+[Info   : Unity Log] 05/15/2024 20:52:35: Using default prefs
+
+[Info   : Unity Log] 05/15/2024 20:52:35: Valheim version: 0.218.15 (network version 27)
+
+[Info   : Unity Log] Trying to set graphic mode to 'Quality'
+[Info   : Unity Log] Graphic mode 'Quality' applied!
+[Info   : Unity Log] 05/15/2024 20:52:35: Worldgenerator version setup:2
+
+[Info   : Unity Log] 05/15/2024 20:52:35: Render threading mode:MultiThreaded
+
+[Warning: Unity Log] 05/15/2024 20:52:35: Set button "CamZoomIn" to None!
+
+[Warning: Unity Log] 05/15/2024 20:52:35: Set button "CamZoomOut" to None!
+
+[Warning: Unity Log] 05/15/2024 20:52:35: Set button "CamZoomIn" to None!
+
+[Warning: Unity Log] 05/15/2024 20:52:35: Set button "CamZoomOut" to None!
+
+[Info   : Unity Log] 05/15/2024 20:52:35: Checking for installed DLCs
+
+[Info   : Unity Log] 05/15/2024 20:52:35: DLC:beta installed:False
+
+[Info   : Unity Log] 05/15/2024 20:52:36: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 05/15/2024 20:52:36: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 05/15/2024 20:52:36: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 05/15/2024 20:52:36: Loaded localization file #3 - 'localization_hildir' language: 'English'
+
+[Info   : Unity Log] 05/15/2024 20:52:36: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 05/15/2024 20:52:36: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 05/15/2024 20:52:36: Loaded localization file #0 - 'localization' language: 'French'
+
+[Info   : Unity Log] 05/15/2024 20:52:36: Loaded localization file #1 - 'localization_extra' language: 'French'
+
+[Info   : Unity Log] 05/15/2024 20:52:36: Loaded localization file #2 - 'heightmap_message' language: 'French'
+
+[Info   : Unity Log] 05/15/2024 20:52:36: Loaded localization file #3 - 'localization_hildir' language: 'French'
+
+[Info   : Unity Log] 05/15/2024 20:52:36: Loaded localization file #4 - 'localization_emotes' language: 'French'
+
+[Info   : Unity Log] 05/15/2024 20:52:36: Loaded localization file #5 - 'localization_ashlands' language: 'French'
+
+[Info   :Valheim Plus] Version text: "Version 0.218.15 (n-27), ValheimPlus 0.9.13.0 (Grantapher Temporary)"
+[Info   : Unity Log] 05/15/2024 20:52:36: Sending PlayFab login request (attempt 1)
+
+[Info   : Unity Log] 05/15/2024 20:52:36: Starting music menu
+
+[Info   : Unity Log] 05/15/2024 20:52:37: PlayFab logged in as "Steam_76561198033930668"
+
+[Info   : Unity Log] 05/15/2024 20:52:37: PlayFab local entity ID is F6714BA8191B69C8
+
+[Info   : Unity Log] 05/15/2024 20:52:41: show character selection
+
+[Info   : Unity Log] 05/15/2024 20:52:41: OnCharacterStart
+
+[Info   : Unity Log] 05/15/2024 20:52:43: PlayFab lobby matching search filter 'string_key10 eq '88.214.56.117:2456' and string_key2 eq 'True'': Got back zero lobbies
+
+[Info   : Unity Log] 05/15/2024 20:52:43: Failed to get lobby gameserver
+
+[Info   : Unity Log] 05/15/2024 20:52:45: Added server with name Les Brumes Eternelles to server list
+
+[Info   : Unity Log] 05/15/2024 20:52:47: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 20:52:47: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 20:52:47: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 20:52:47: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 20:52:48: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 20:52:48: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 20:52:48: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 20:52:48: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 20:52:49: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 20:52:49: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 20:52:49: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 20:52:49: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 20:52:50: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 20:52:50: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 20:52:50: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 20:52:50: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 20:52:50: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 20:52:51: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 20:52:51: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 20:52:51: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 20:52:51: PlayFab lobby matching search filter 'string_key10 eq '88.214.56.117:2456' and string_key2 eq 'True'': Got back zero lobbies
+
+[Info   : Unity Log] 05/15/2024 20:52:51: Determined backend of dedicated server to be Steamworks
+
+[Info   : Unity Log] 05/15/2024 20:52:51: Loading main scene
+
+[Info   : Unity Log] 05/15/2024 20:52:52: Cloud Save: 62 bytes. /serverlist/favorite.new
+
+[Info   : Unity Log] 05/15/2024 20:52:52: Steam writing file chunks 1 / 1, (62 bytes)
+
+[Info   : Unity Log] 05/15/2024 20:52:52: Steam Cloud Move: 62 bytes. /serverlist/favorite -> /serverlist/favorite.old
+
+[Info   : Unity Log] 05/15/2024 20:52:52: Steam writing file chunks 1 / 1, (62 bytes)
+
+[Info   : Unity Log] 05/15/2024 20:52:52: Steam Cloud Move: 62 bytes. /serverlist/favorite.new -> /serverlist/favorite
+
+[Info   : Unity Log] 05/15/2024 20:52:52: Steam writing file chunks 1 / 1, (62 bytes)
+
+[Info   : Unity Log] 05/15/2024 20:52:52: Cloud Save: 540 bytes. /serverlist/recent.new
+
+[Info   : Unity Log] 05/15/2024 20:52:52: Steam writing file chunks 1 / 1, (540 bytes)
+
+[Info   : Unity Log] 05/15/2024 20:52:52: Steam Cloud Move: 540 bytes. /serverlist/recent -> /serverlist/recent.old
+
+[Info   : Unity Log] 05/15/2024 20:52:52: Steam writing file chunks 1 / 1, (540 bytes)
+
+[Info   : Unity Log] 05/15/2024 20:52:52: Steam Cloud Move: 540 bytes. /serverlist/recent.new -> /serverlist/recent
+
+[Info   : Unity Log] 05/15/2024 20:52:52: Steam writing file chunks 1 / 1, (540 bytes)
+
+[Info   : Unity Log] 05/15/2024 20:52:52: Audioman already exist, destroying self
+
+[Info   : Unity Log] 05/15/2024 20:52:52: Steam initialized, persona:StarKillerZ
+
+[Info   : Unity Log] 05/15/2024 20:52:52: PlayFab custom ID set to "Steam_76561198033930668"
+
+[Info   : Unity Log] 05/15/2024 20:52:52: Using default prefs
+
+[Info   : Unity Log] 05/15/2024 20:52:52: Loading player profile floki
+
+[Info   : Unity Log] 05/15/2024 20:52:52: isModded: True
+
+[Info   : Unity Log] 05/15/2024 20:52:52: Zonesystem Awake 4749
+
+[Info   : Unity Log] 05/15/2024 20:52:52: DungeonDB Awake 4749
+
+[Info   : Unity Log] 05/15/2024 20:52:52: Steam initialized, persona:StarKillerZ
+
+[Info   : Unity Log] 05/15/2024 20:52:52: Checking for installed DLCs
+
+[Info   : Unity Log] 05/15/2024 20:52:52: DLC:beta installed:False
+
+[Info   : Unity Log] 05/15/2024 20:52:53: Zonesystem Start 4749
+
+[Info   : Unity Log] 05/15/2024 20:52:53: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from main
+
+[Info   : Unity Log] 05/15/2024 20:52:53: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from main
+
+[Info   : Unity Log] 05/15/2024 20:52:53: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from main
+
+[Info   : Unity Log] 05/15/2024 20:52:53: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from main
+
+[Info   : Unity Log] 05/15/2024 20:52:53: Added 24 locations, 33 vegetations, 8 environments, 2 biome env-setups, 2 clutter  from main
+
+[Info   : Unity Log] 05/15/2024 20:52:53: DungeonDB Start 4749
+
+[Info   : Unity Log] 05/15/2024 20:52:53: ZRpc timeout set to 30s 
+
+[Info   : Unity Log] 05/15/2024 20:52:53: ZNET START
+
+[Info   : Unity Log] 05/15/2024 20:52:53: Connecting to server with Steam-backend 88.214.56.117:2456
+
+[Info   : Unity Log] 05/15/2024 20:52:53: Starting to connect to 88.214.56.117:2456
+
+[Info   : Unity Log] Sending Valheim Plus version 0.9.13.0 and minimum version 0.9.13.0 to the server.
+[Info   : Unity Log] Am I Host? False
+[Info   : Unity Log] 05/15/2024 20:52:53: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 05/15/2024 20:52:53: New connection
+
+[Info   : Unity Log] 05/15/2024 20:52:53: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 05/15/2024 20:52:53: Connected
+
+[Info   : Unity Log] 05/15/2024 20:52:53: Got connection SteamID 90198248907364375
+
+[Info   : Unity Log] Received Valheim Plus version 0.9.13.0 and minimum version 0.9.13.0 from the server.
+[Info   : Unity Log] 05/15/2024 20:52:56: Network version check, their:27, mine:27
+
+[Info   : Unity Log] 05/15/2024 20:52:56: Worldgenerator version setup:2
+
+[Info   :Valheim Plus] -------------------- SENDING VPLUGCONFIGSYNC REQUEST
+[Info   : Unity Log] 05/15/2024 20:52:58: client got keys 0
+
+[Info   : Unity Log] 05/15/2024 20:52:58: client got location icons
+
+[Info   : Unity Log] 05/15/2024 20:52:58: Icons:1
+
+[Info   : Unity Log] 05/15/2024 20:52:59: Session auth respons callback
+
+[Info   : Unity Log] 05/15/2024 20:53:07: Generating new world minimap done [8962ms]
+
+[Info   : Unity Log] 05/15/2024 20:53:08: Starting respawn
+
+[Info   :Valheim Plus] Unpatching.
+[Info   :Valheim Plus] Successfully unpatched.
+[Info   :Valheim Plus] ServerSyncsConfig = True
+[Info   :Valheim Plus] ServerSyncsHotkeys = True
+[Info   :Valheim Plus] [AdvancedBuildingMode] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [AdvancedEditingMode] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Bed] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Beehive] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Building] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Deconstruct] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Inventory] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Items] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Fermenter] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [FireSource] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Food] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Smelter] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Furnace] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Hotkeys] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Kiln] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Windmill] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [SpinningWheel] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [EitrRefinery] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Map] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Player] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Server] Section is enabled.
+[Info   :Valheim Plus] [Server] Done with section.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Stamina] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [StaminaUsage] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Workbench] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Time] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Ward] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [StructuralIntegrity] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Tameable] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Hud] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Experience] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Camera] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Game] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Wagon] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Gathering] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Pickable] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Durability] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Armor] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [FreePlacementRotation] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Shields] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [FirstPerson] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [GridAlignment] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [CraftFromChest] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [ValheimPlus] Section is enabled.
+[Info   :Valheim Plus] [ValheimPlus] Done with section.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [PlayerProjectile] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [MonsterProjectile] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [GameClock] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Brightness] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Chat] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [LootDrop] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [WispSpawner] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Demister] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] Applying patches.
+[Info   :Valheim Plus] Patches successfully applied.
+[Info   :Valheim Plus] Successfully synced VPlus configuration from server.
+[Info   : Unity Log] 05/15/2024 20:53:09: tip:$loadscreen_tip06
+
+[Info   : Unity Log] 05/15/2024 20:53:13: Force generating hmap (64.00, 0.00, 64.00)
+
+[Info   : Unity Log] 05/15/2024 20:53:13: Force generating hmap (64.00, 0.00, 128.00)
+
+[Info   : Unity Log] 05/15/2024 20:53:13: SpawnPrefab StoneSpawner_TheQueen SPAWNING BossStone_TheQueen
+
+[Info   : Unity Log] 05/15/2024 20:53:13: SpawnPrefab StoneSpawner_Fader SPAWNING BossStone_Fader
+
+[Info   : Unity Log] 05/15/2024 20:53:14: Skipping unloading unused assets
+
+[Info   : Unity Log] 05/15/2024 20:53:14: Minimap: Adding unique location (-0.69, 51.80, 5.74)
+
+[Info   : Unity Log] 05/15/2024 20:53:23: Spawned Deer x 1
+
+[Info   : Unity Log] 05/15/2024 20:53:23: Spawned Deer x 1
+
+[Info   : Unity Log] 05/15/2024 20:53:23: Spawned Boar x 1
+
+[Info   : Unity Log] 05/15/2024 20:53:23: Spawned Greyling x 1
+
+[Info   : Unity Log] 05/15/2024 20:53:29: Starting music morning
+
+[Warning: Unity Log] 05/15/2024 20:53:43: ZRpc timeout detected
+
+[Info   : Unity Log] 05/15/2024 20:53:43: Closing socket 90198248907364375
+
+[Info   : Unity Log] 05/15/2024 20:53:43:   send queue size:0
+
+[Info   : Unity Log] 05/15/2024 20:53:43: Got status changed msg k_ESteamNetworkingConnectionState_None
+
+[Info   : Unity Log] 05/15/2024 20:53:43: Disposing socket
+
+[Info   : Unity Log] 05/15/2024 20:53:43: Last socket, unregistering callback
+
+[Info   : Unity Log] 05/15/2024 20:53:43: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+
+[Info   : Unity Log] 05/15/2024 20:53:43: Disposing socket
+
+[Info   : Unity Log] 05/15/2024 20:53:43: Last socket, unregistering callback
+
+[Info   : Unity Log] 05/15/2024 20:53:43: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+
+[Info   : Unity Log] 05/15/2024 20:53:43: Lost connection to server:ErrorDisconnected
+
+[Info   : Unity Log] Am I Host? False
+[Info   : Unity Log] 05/15/2024 20:53:43: Available space to current user: 46827548672. Saving is blocked if below: 226603180 bytes. Warnings are given if below: 453206360
+
+[Info   : Unity Log] 05/15/2024 20:53:43: Shutting down
+
+[Info   : Unity Log] 05/15/2024 20:53:44: Minimap: compressed mapData 8388617 => 8223 bytes
+
+[Info   : Unity Log] 05/15/2024 20:53:44: Cloud Save: 8452324 bytes. /characters/floki.fch.new
+
+[Info   : Unity Log] 05/15/2024 20:53:44: Steam writing file chunks 1 / 1, (8452324 bytes)
+
+[Info   : Unity Log] 05/15/2024 20:53:44: Steam Cloud Move: 8443990 bytes. /characters/floki.fch -> /characters/floki.fch.old
+
+[Info   : Unity Log] 05/15/2024 20:53:44: Steam writing file chunks 1 / 1, (8443990 bytes)
+
+[Info   : Unity Log] 05/15/2024 20:53:44: Steam Cloud Move: 8452324 bytes. /characters/floki.fch.new -> /characters/floki.fch
+
+[Info   : Unity Log] 05/15/2024 20:53:44: Steam writing file chunks 1 / 1, (8452324 bytes)
+
+[Info   : Unity Log] 05/15/2024 20:53:44: Considering autobackup. World time: 37,2, short time: 7200, long time: 43200, backup count: 4
+
+[Info   : Unity Log] 05/15/2024 20:53:44: Skipping backup. World session not long enough.
+
+[Info   : Unity Log] Am I Host? False
+[Info   :Valheim Plus] Unpatching.
+[Info   :Valheim Plus] Successfully unpatched.
+[Info   :Valheim Plus] Found config file at: 'D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\valheim_plus.cfg'
+[Info   :Valheim Plus] Loading config...
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [AdvancedBuildingMode] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [AdvancedEditingMode] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Armor] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Bed] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Beehive] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Brightness] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Building] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Camera] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Chat] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [CraftFromChest] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Deconstruct] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Demister] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Durability] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [EitrRefinery] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Experience] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Fermenter] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [FireSource] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [FirstPerson] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Food] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [FreePlacementRotation] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Furnace] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Game] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [GameClock] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Gathering] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [GridAlignment] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Hotkeys] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Hud] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Inventory] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Items] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Kiln] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [LootDrop] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Map] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [MonsterProjectile] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Pickable] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Player] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [PlayerProjectile] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Server] Section is enabled.
+[Info   :Valheim Plus] [Server] Done with section.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Shields] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Smelter] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [SpinningWheel] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Stamina] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [StaminaUsage] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [StructuralIntegrity] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Tameable] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Time] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [ValheimPlus] Section is enabled.
+[Info   :Valheim Plus] [ValheimPlus] Done with section.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Wagon] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Ward] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Windmill] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [WispSpawner] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Workbench] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] Downloading config from: 'https://github.com/Grantapher/ValheimPlus/releases/download/0.9.13.0/valheim_plus.cfg'
+[Error  :Valheim Plus] Error downloading config from 'https://github.com/Grantapher/ValheimPlus/releases/download/0.9.13.0/valheim_plus.cfg': System.Net.WebException: Error: SecureChannelFailure (Remote prematurely closed connection.) ---> System.IO.IOException: Remote prematurely closed connection.
+  at Mono.Net.Security.AsyncProtocolRequest.ProcessOperation (System.Threading.CancellationToken cancellationToken) [0x000e3] in <0176c56e11184037ab8bba48ad8e5607>:0 
+  at Mono.Net.Security.AsyncProtocolRequest.StartOperation (System.Threading.CancellationToken cancellationToken) [0x0008b] in <0176c56e11184037ab8bba48ad8e5607>:0 
+  at Mono.Net.Security.MobileAuthenticatedStream.ProcessAuthentication (System.Boolean runSynchronously, Mono.Net.Security.MonoSslAuthenticationOptions options, System.Threading.CancellationToken cancellationToken) [0x00262] in <0176c56e11184037ab8bba48ad8e5607>:0 
+  at Mono.Net.Security.MonoTlsStream.CreateStream (System.Net.WebConnectionTunnel tunnel, System.Threading.CancellationToken cancellationToken) [0x0016a] in <0176c56e11184037ab8bba48ad8e5607>:0 
+  at System.Net.WebConnection.CreateStream (System.Net.WebOperation operation, System.Boolean reused, System.Threading.CancellationToken cancellationToken) [0x001ba] in <0176c56e11184037ab8bba48ad8e5607>:0 
+   --- End of inner exception stack trace ---
+  at System.Net.WebConnection.CreateStream (System.Net.WebOperation operation, System.Boolean reused, System.Threading.CancellationToken cancellationToken) [0x0021a] in <0176c56e11184037ab8bba48ad8e5607>:0 
+  at System.Net.WebConnection.InitConnection (System.Net.WebOperation operation, System.Threading.CancellationToken cancellationToken) [0x00141] in <0176c56e11184037ab8bba48ad8e5607>:0 
+  at System.Net.WebOperation.Run () [0x0009a] in <0176c56e11184037ab8bba48ad8e5607>:0 
+  at System.Net.WebCompletionSource`1[T].WaitForCompletion () [0x00094] in <0176c56e11184037ab8bba48ad8e5607>:0 
+  at System.Net.HttpWebRequest.RunWithTimeoutWorker[T] (System.Threading.Tasks.Task`1[TResult] workerTask, System.Int32 timeout, System.Action abort, System.Func`1[TResult] aborted, System.Threading.CancellationTokenSource cts) [0x000f8] in <0176c56e11184037ab8bba48ad8e5607>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x00016] in <0176c56e11184037ab8bba48ad8e5607>:0 
+  at System.Net.WebClient.GetWebResponse (System.Net.WebRequest request) [0x00000] in <0176c56e11184037ab8bba48ad8e5607>:0 
+  at System.Net.WebClient.DownloadBits (System.Net.WebRequest request, System.IO.Stream writeStream) [0x000e6] in <0176c56e11184037ab8bba48ad8e5607>:0 
+  at System.Net.WebClient.DownloadDataInternal (System.Uri address, System.Net.WebRequest& request) [0x00061] in <0176c56e11184037ab8bba48ad8e5607>:0 
+  at System.Net.WebClient.DownloadString (System.Uri address) [0x00011] in <0176c56e11184037ab8bba48ad8e5607>:0 
+  at System.Net.WebClient.DownloadString (System.String address) [0x00008] in <0176c56e11184037ab8bba48ad8e5607>:0 
+  at (wrapper remoting-invoke-with-check) System.Net.WebClient.DownloadString(string)
+  at ValheimPlus.ValheimPlusPlugin.getCurrentWebIniFile () [0x00038] in <2c4e3ff0382b43d4bc3cee8b8b6be39e>:0 
+[Info   :Valheim Plus] Applying patches.
+[Info   :Valheim Plus] Patches successfully applied.
+[Info   : Unity Log] 05/15/2024 20:53:57: ZNet Shutdown
+
+[Info   : Unity Log] 05/15/2024 20:53:57: Unloading unused assets
+
+[Info   : Unity Log] 05/15/2024 20:53:57: Sending disconnect msg
+
+[Info   : Unity Log] 05/15/2024 20:53:57: Released session ticket
+
+[Info   : Unity Log] ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
+[Warning: Unity Log] 05/15/2024 20:53:57: Local player destroyed
+
+[Info   : Unity Log] 05/15/2024 20:53:57: Lost connection to server:ErrorDisconnected
+
+[Info   : Unity Log] 05/15/2024 20:53:57: Lost connection to server:ErrorDisconnected
+
+[Info   : Unity Log] 05/15/2024 20:53:57: Lost connection to server:ErrorDisconnected
+
+[Info   : Unity Log] 05/15/2024 20:53:57: Lost connection to server:ErrorDisconnected
+
+[Info   : Unity Log] 05/15/2024 20:53:57: Lost connection to server:ErrorDisconnected
+
+[Info   : Unity Log] 05/15/2024 20:53:57: ZNet OnDestroy
+
+[Info   : Unity Log] 05/15/2024 20:53:57: Net scene destroyed
+
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Info   : Unity Log] 05/15/2024 20:53:57: Audioman already exist, destroying self
+
+[Info   : Unity Log] 05/15/2024 20:53:57: Steam initialized, persona:StarKillerZ
+
+[Info   : Unity Log] 05/15/2024 20:53:57: PlayFab custom ID set to "Steam_76561198033930668"
+
+[Info   : Unity Log] 05/15/2024 20:53:57: Using default prefs
+
+[Info   : Unity Log] 05/15/2024 20:53:57: Valheim version: 0.218.15 (network version 27)
+
+[Info   : Unity Log] 05/15/2024 20:53:57: Worldgenerator version setup:2
+
+[Info   : Unity Log] 05/15/2024 20:53:57: Render threading mode:MultiThreaded
+
+[Info   : Unity Log] 05/15/2024 20:53:57: Checking for installed DLCs
+
+[Info   : Unity Log] 05/15/2024 20:53:57: DLC:beta installed:False
+
+[Info   :Valheim Plus] Version text: "Version 0.218.15 (n-27), ValheimPlus 0.9.13.0 (Grantapher Temporary)"
+[Info   : Unity Log] 05/15/2024 20:53:58: Starting music menu
+
+[Info   : Unity Log] 05/15/2024 20:56:13: Refresh complete 6848  eServerResponded
+
+[Info   : Unity Log] 05/15/2024 20:59:37: Update PlayFab entity token
+
+[Info   : Unity Log] 05/15/2024 21:01:00: show character selection
+
+[Info   : Unity Log] 05/15/2024 21:01:01: OnCharacterStart
+
+[Info   : Unity Log] 05/15/2024 21:01:03: PlayFab lobby matching search filter 'string_key10 eq '88.214.56.117:2456' and string_key2 eq 'True'': Got back zero lobbies
+
+[Info   : Unity Log] 05/15/2024 21:01:04: Added server with name Les Brumes Eternelles to server list
+
+[Info   : Unity Log] 05/15/2024 21:01:05: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 21:01:06: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 21:01:06: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 21:01:06: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 21:01:06: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 21:01:06: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 21:01:07: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 21:01:07: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 21:01:07: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 21:01:07: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 21:01:08: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 21:01:08: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 21:01:08: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 21:01:08: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 21:01:09: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 21:01:09: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 21:01:09: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 21:01:09: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 21:01:10: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 21:01:10: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 05/15/2024 21:01:10: PlayFab lobby matching search filter 'string_key10 eq '88.214.56.117:2456' and string_key2 eq 'True'': Got back zero lobbies
+
+[Info   : Unity Log] 05/15/2024 21:01:10: Determined backend of dedicated server to be Steamworks
+
+[Info   : Unity Log] 05/15/2024 21:01:10: Loading main scene
+
+[Info   : Unity Log] 05/15/2024 21:01:11: Cloud Save: 62 bytes. /serverlist/favorite.new
+
+[Info   : Unity Log] 05/15/2024 21:01:11: Steam writing file chunks 1 / 1, (62 bytes)
+
+[Info   : Unity Log] 05/15/2024 21:01:11: Steam Cloud Move: 62 bytes. /serverlist/favorite -> /serverlist/favorite.old
+
+[Info   : Unity Log] 05/15/2024 21:01:11: Steam writing file chunks 1 / 1, (62 bytes)
+
+[Info   : Unity Log] 05/15/2024 21:01:11: Steam Cloud Move: 62 bytes. /serverlist/favorite.new -> /serverlist/favorite
+
+[Info   : Unity Log] 05/15/2024 21:01:11: Steam writing file chunks 1 / 1, (62 bytes)
+
+[Info   : Unity Log] 05/15/2024 21:01:11: Cloud Save: 540 bytes. /serverlist/recent.new
+
+[Info   : Unity Log] 05/15/2024 21:01:11: Steam writing file chunks 1 / 1, (540 bytes)
+
+[Info   : Unity Log] 05/15/2024 21:01:11: Steam Cloud Move: 540 bytes. /serverlist/recent -> /serverlist/recent.old
+
+[Info   : Unity Log] 05/15/2024 21:01:11: Steam writing file chunks 1 / 1, (540 bytes)
+
+[Info   : Unity Log] 05/15/2024 21:01:11: Steam Cloud Move: 540 bytes. /serverlist/recent.new -> /serverlist/recent
+
+[Info   : Unity Log] 05/15/2024 21:01:11: Steam writing file chunks 1 / 1, (540 bytes)
+
+[Info   : Unity Log] 05/15/2024 21:01:11: Audioman already exist, destroying self
+
+[Info   : Unity Log] 05/15/2024 21:01:11: Steam initialized, persona:StarKillerZ
+
+[Info   : Unity Log] 05/15/2024 21:01:11: PlayFab custom ID set to "Steam_76561198033930668"
+
+[Info   : Unity Log] 05/15/2024 21:01:11: Using default prefs
+
+[Info   : Unity Log] 05/15/2024 21:01:11: Loading player profile floki
+
+[Info   : Unity Log] 05/15/2024 21:01:11: isModded: True
+
+[Info   : Unity Log] 05/15/2024 21:01:11: Zonesystem Awake 41609
+
+[Info   : Unity Log] 05/15/2024 21:01:11: DungeonDB Awake 41609
+
+[Info   : Unity Log] 05/15/2024 21:01:11: Steam initialized, persona:StarKillerZ
+
+[Info   : Unity Log] 05/15/2024 21:01:11: Checking for installed DLCs
+
+[Info   : Unity Log] 05/15/2024 21:01:11: DLC:beta installed:False
+
+[Info   : Unity Log] 05/15/2024 21:01:11: Zonesystem Start 41609
+
+[Info   : Unity Log] 05/15/2024 21:01:11: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from main
+
+[Info   : Unity Log] 05/15/2024 21:01:11: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from main
+
+[Info   : Unity Log] 05/15/2024 21:01:11: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from main
+
+[Info   : Unity Log] 05/15/2024 21:01:11: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from main
+
+[Info   : Unity Log] 05/15/2024 21:01:11: Added 24 locations, 33 vegetations, 8 environments, 2 biome env-setups, 2 clutter  from main
+
+[Info   : Unity Log] 05/15/2024 21:01:11: DungeonDB Start 41609
+
+[Info   : Unity Log] 05/15/2024 21:01:11: ZRpc timeout set to 30s 
+
+[Info   : Unity Log] 05/15/2024 21:01:11: ZNET START
+
+[Info   : Unity Log] 05/15/2024 21:01:11: Connecting to server with Steam-backend 88.214.56.117:2456
+
+[Info   : Unity Log] 05/15/2024 21:01:11: Starting to connect to 88.214.56.117:2456
+
+[Info   : Unity Log] Sending Valheim Plus version 0.9.13.0 and minimum version 0.9.13.0 to the server.
+[Info   : Unity Log] Am I Host? False
+[Info   : Unity Log] 05/15/2024 21:01:11: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 05/15/2024 21:01:11: New connection
+
+[Info   : Unity Log] 05/15/2024 21:01:11: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 05/15/2024 21:01:11: Connected
+
+[Info   : Unity Log] 05/15/2024 21:01:11: Got connection SteamID 90198249075996695
+
+[Info   : Unity Log] Received Valheim Plus version 0.9.13.0 and minimum version 0.9.13.0 from the server.
+[Info   : Unity Log] 05/15/2024 21:01:17: Network version check, their:27, mine:27
+
+[Info   : Unity Log] 05/15/2024 21:01:17: Worldgenerator version setup:2
+
+[Info   :Valheim Plus] -------------------- SENDING VPLUGCONFIGSYNC REQUEST
+[Info   : Unity Log] 05/15/2024 21:01:20: client got keys 0
+
+[Info   : Unity Log] 05/15/2024 21:01:20: client got location icons
+
+[Info   : Unity Log] 05/15/2024 21:01:20: Icons:1
+
+[Info   : Unity Log] 05/15/2024 21:01:20: Session auth respons callback
+
+[Info   : Unity Log] 05/15/2024 21:01:30: Generating new world minimap done [9830ms]
+
+[Info   : Unity Log] 05/15/2024 21:01:30: Minimap: unpacking compressed mapData 8223 => 8388617 bytes
+
+[Info   : Unity Log] 05/15/2024 21:01:30: Starting respawn
+
+[Info   :Valheim Plus] Unpatching.
+[Info   :Valheim Plus] Successfully unpatched.
+[Info   :Valheim Plus] ServerSyncsConfig = True
+[Info   :Valheim Plus] ServerSyncsHotkeys = True
+[Info   :Valheim Plus] [AdvancedBuildingMode] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [AdvancedEditingMode] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Bed] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Beehive] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Building] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Deconstruct] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Inventory] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Items] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Fermenter] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [FireSource] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Food] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Smelter] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Furnace] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Hotkeys] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Kiln] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Windmill] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [SpinningWheel] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [EitrRefinery] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Map] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Player] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Server] Section is enabled.
+[Info   :Valheim Plus] [Server] Done with section.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Stamina] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [StaminaUsage] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Workbench] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Time] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Ward] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [StructuralIntegrity] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Tameable] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Hud] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Experience] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Camera] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Game] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Wagon] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Gathering] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Pickable] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Durability] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Armor] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [FreePlacementRotation] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Shields] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [FirstPerson] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [GridAlignment] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [CraftFromChest] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [ValheimPlus] Section is enabled.
+[Info   :Valheim Plus] [ValheimPlus] Done with section.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [PlayerProjectile] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [MonsterProjectile] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [GameClock] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Brightness] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Chat] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [LootDrop] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [WispSpawner] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Demister] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] Applying patches.
+[Info   :Valheim Plus] Patches successfully applied.
+[Info   :Valheim Plus] Successfully synced VPlus configuration from server.
+[Info   : Unity Log] 05/15/2024 21:01:32: tip:$loadscreen_tip21
+
+[Info   : Unity Log] 05/15/2024 21:01:35: Force generating hmap (64.00, 0.00, 64.00)
+
+[Info   : Unity Log] 05/15/2024 21:01:35: Force generating hmap (64.00, 0.00, 128.00)
+
+[Info   : Unity Log] 05/15/2024 21:01:39: Spawned after 8,019994
+
+[Info   : Unity Log] 05/15/2024 21:01:39: Skipping unloading unused assets
+
+[Info   : Unity Log] 05/15/2024 21:01:39: Minimap: Adding unique location (-0.69, 51.80, 5.74)
+
+[Info   : Unity Log] 05/15/2024 21:01:50: Starting music morning
+
+[Info   : Unity Log] 05/15/2024 21:02:24: Starting music meadows
+
+[Info   : Unity Log] 05/15/2024 21:03:26: Spawned Deer x 3
+
+[Info   : Unity Log] 05/15/2024 21:04:56: Refresh complete 5590  eServerResponded
+
+[Info   : Unity Log] 05/15/2024 21:05:05: Spawned Deer x 1
+
+[Info   : Unity Log] 05/15/2024 21:06:46: Spawned Boar x 1
+
+[Info   : Unity Log] 05/15/2024 21:09:06: Game - OnApplicationQuit
+
+[Info   : Unity Log] Am I Host? False
+[Info   : Unity Log] 05/15/2024 21:09:06: Available space to current user: 46804434944. Saving is blocked if below: 226619848 bytes. Warnings are given if below: 453239696
+
+[Info   : Unity Log] 05/15/2024 21:09:06: Shutting down
+
+[Info   : Unity Log] 05/15/2024 21:09:06: Minimap: compressed mapData 8388617 => 8225 bytes
+
+[Info   : Unity Log] 05/15/2024 21:09:06: Cloud Save: 8452326 bytes. /characters/floki.fch.new
+
+[Info   : Unity Log] 05/15/2024 21:09:06: Steam writing file chunks 1 / 1, (8452326 bytes)
+
+[Info   : Unity Log] 05/15/2024 21:09:06: Steam Cloud Move: 8452324 bytes. /characters/floki.fch -> /characters/floki.fch.old
+
+[Info   : Unity Log] 05/15/2024 21:09:06: Steam writing file chunks 1 / 1, (8452324 bytes)
+
+[Info   : Unity Log] 05/15/2024 21:09:06: Steam Cloud Move: 8452326 bytes. /characters/floki.fch.new -> /characters/floki.fch
+
+[Info   : Unity Log] 05/15/2024 21:09:06: Steam writing file chunks 1 / 1, (8452326 bytes)
+
+[Info   : Unity Log] 05/15/2024 21:09:06: Considering autobackup. World time: 391,04, short time: 7200, long time: 43200, backup count: 4
+
+[Info   : Unity Log] 05/15/2024 21:09:06: Skipping backup. World session not long enough.
+
+[Info   : Unity Log] Am I Host? False
+[Info   :Valheim Plus] Unpatching.
+[Info   :Valheim Plus] Successfully unpatched.
+[Info   :Valheim Plus] Found config file at: 'D:\SteamLibrary\steamapps\common\Valheim\BepInEx\config\valheim_plus.cfg'
+[Info   :Valheim Plus] Loading config...
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [AdvancedBuildingMode] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [AdvancedEditingMode] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Armor] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Bed] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Beehive] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Brightness] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Building] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Camera] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Chat] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [CraftFromChest] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Deconstruct] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Demister] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Durability] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [EitrRefinery] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Experience] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Fermenter] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [FireSource] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [FirstPerson] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Food] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [FreePlacementRotation] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Furnace] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Game] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [GameClock] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Gathering] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [GridAlignment] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Hotkeys] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Hud] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Inventory] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Items] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Kiln] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [LootDrop] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Map] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [MonsterProjectile] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Pickable] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Player] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [PlayerProjectile] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Server] Section is enabled.
+[Info   :Valheim Plus] [Server] Done with section.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Shields] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Smelter] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [SpinningWheel] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Stamina] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [StaminaUsage] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [StructuralIntegrity] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Tameable] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Time] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [ValheimPlus] Section is enabled.
+[Info   :Valheim Plus] [ValheimPlus] Done with section.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Wagon] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Ward] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Windmill] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [WispSpawner] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] [Workbench] Section is NOT enabled.
+[Info   :Valheim Plus] 
+[Info   :Valheim Plus] Downloading config from: 'https://github.com/Grantapher/ValheimPlus/releases/download/0.9.13.0/valheim_plus.cfg'
+[Info   :Valheim Plus] Applying patches.
+[Info   :Valheim Plus] Patches successfully applied.
+[Info   : Unity Log] 05/15/2024 21:09:08: ZNet Shutdown
+
+[Info   : Unity Log] 05/15/2024 21:09:08: Unloading unused assets
+
+[Info   : Unity Log] 05/15/2024 21:09:08: Sending disconnect msg
+
+[Info   : Unity Log] 05/15/2024 21:09:08: Sent to 90198249075996695
+
+[Info   : Unity Log] 05/15/2024 21:09:08: Released session ticket
+
+[Info   : Unity Log] ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
+[Info   : Unity Log] 05/15/2024 21:09:08: Disposing socket
+
+[Info   : Unity Log] 05/15/2024 21:09:08: Closing socket 90198249075996695
+
+[Info   : Unity Log] 05/15/2024 21:09:08:   send queue size:0
+
+[Info   : Unity Log] 05/15/2024 21:09:08: Last socket, unregistering callback
+
+[Info   : Unity Log] 05/15/2024 21:09:08: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+
+[Info   : Unity Log] 05/15/2024 21:09:08: Disposing socket
+
+[Info   : Unity Log] 05/15/2024 21:09:08: Last socket, unregistering callback
+
+[Info   : Unity Log] 05/15/2024 21:09:08: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+
+[Info   : Unity Log] 05/15/2024 21:09:08: Stopping build thread
+
+[Info   : Unity Log] 05/15/2024 21:09:11: ZNet OnDestroy
+
+[Info   : Unity Log] 05/15/2024 21:09:11: Net scene destroyed
+
+[Info   : Unity Log] 05/15/2024 21:09:11: Steam manager on destroy
+
+[Warning: Unity Log] 05/15/2024 21:09:11: Local player destroyed
+
