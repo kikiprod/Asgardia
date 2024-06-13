@@ -13,3 +13,4 @@ out/
 
 # Ignorer les fichiers desktop.ini
 desktop.ini
+delete_file_en.py
