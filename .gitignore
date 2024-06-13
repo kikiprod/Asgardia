@@ -8,7 +8,7 @@ out/
 
 # Ignorer les fichiers temporaires
 *.tmp
-*.log
+#*.log
 
 
 # Ignorer les fichiers desktop.ini
