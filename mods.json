@@ -67,15 +67,21 @@
       "version": "1.0.0"
     },
     {
+      "name": "custom_raids.supplemental.odin.cfg",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/config/custom_raids.supplemental.odin.cfg",
+      "type": "config",
+      "version": "1.0.0"
+    },
+    {
       "name": "Advize_PlantEverything.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/Advize_PlantEverything.dll",
       "type": "plugins",
       "version": "1.0.0"
     },
     {
-      "name": "custom_raids.supplemental.odin.cfg",
-      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/config/custom_raids.supplemental.odin.cfg",
-      "type": "config",
+      "name": "OdinsFoodBarrels.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/OdinsFoodBarrels.dll",
+      "type": "plugins",
       "version": "1.0.0"
     }
   ]
