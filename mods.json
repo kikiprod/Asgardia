@@ -59,6 +59,18 @@
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/config/CW_Jesse.BetterNetworking.cfg",
       "type": "config",
       "version": "1.0.0"
+    },
+    {
+      "name": "Valheim.CustomRaids.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/Valheim.CustomRaids.dll",
+      "type": "plugins",
+      "version": "1.0.0"
+    },
+    {
+      "name": "Advize_PlantEverything.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/Advize_PlantEverything.dll",
+      "type": "plugins",
+      "version": "1.0.0"
     }
   ]
 }
