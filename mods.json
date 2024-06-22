@@ -89,6 +89,18 @@
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/config/OdinsFoodBarrels.French.yml",
       "type": "config",
       "version": "1.0.0"
+    },
+    {
+      "name": "ExpandWorld.zip",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/ExpandWorld.zip",
+      "type": "plugins",
+      "version": "1.0.0"
+    },
+    {
+      "name": "expand_world_data.zip",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/config/expand_world_data.zip",
+      "type": "config",
+      "version": "1.0.0"
     }
   ]
 }
