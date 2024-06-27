@@ -4,7 +4,7 @@
       "name": "AzuAnticheat.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/AzuAnticheat.dll",
       "type": "plugins",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "name": "EquipmentAndQuickSlots.dll",
@@ -16,7 +16,7 @@
       "name": "MarketplaceAndServerNPCsRevamped.zip",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/MarketplaceAndServerNPCsRevamped.zip",
       "type": "plugins",
-      "version": "1.0.1"
+      "version": "1.0.2"
     },
     {
       "name": "Jotunn.zip",
@@ -76,7 +76,7 @@
       "name": "Advize_PlantEverything.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/Advize_PlantEverything.dll",
       "type": "plugins",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "name": "OdinsFoodBarrels.dll",
