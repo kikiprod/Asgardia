@@ -91,6 +91,18 @@
       "version": "1.0.0"
     },
     {
+      "name": "ColoredFoodUI.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/ColoredFoodUI.dll",
+      "type": "plugins",
+      "version": "1.0.0"
+    },
+    {
+      "name": "Valheim.DisplayBepInExInfo.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/Valheim.DisplayBepInExInfo.dll",
+      "type": "plugins",
+      "version": "1.0.0"
+    },
+    {
       "name": "ExpandWorld.zip",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/ExpandWorld.zip",
       "type": "plugins",
