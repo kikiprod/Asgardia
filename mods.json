@@ -113,6 +113,12 @@
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/config/expand_world_data.zip",
       "type": "config",
       "version": "1.0.0"
+    },
+    {
+      "name": "ValheimPlus.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/ValheimPlus.dll",
+      "type": "plugins",
+      "version": "1.0.0"
     }
   ]
 }
