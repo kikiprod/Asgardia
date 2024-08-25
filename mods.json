@@ -4,7 +4,7 @@
       "name": "AzuAnticheat.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/AzuAnticheat.dll",
       "type": "plugins",
-      "version": "1.0.1"
+      "version": "4.3.8"
     },
     {
       "name": "EquipmentAndQuickSlots.dll",
@@ -16,7 +16,7 @@
       "name": "MarketplaceAndServerNPCsRevamped.zip",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/MarketplaceAndServerNPCsRevamped.zip",
       "type": "plugins",
-      "version": "1.0.2"
+      "version": "9.3.3"
     },
     {
       "name": "Jotunn.zip",
@@ -28,7 +28,7 @@
       "name": "Seasonality.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/Seasonality.dll",
       "type": "plugins",
-      "version": "3.3.7"
+      "version": "3.3.11"
     },
     {
       "name": "Seasonality.zip",
@@ -40,13 +40,13 @@
       "name": "QuickConnect.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/QuickConnect.dll",
       "type": "plugins",
-      "version": "1.0.0"
+      "version": "1.6.0"
     },
     {
       "name": "quick_connect_servers.cfg",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/config/quick_connect_servers.cfg",
       "type": "config",
-      "version": "1.0.0"
+      "version": "1.6.0"
     },
     {
       "name": "CW_Jesse.BetterNetworking.dll",
@@ -119,7 +119,12 @@
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/ValheimPlus.dll",
       "type": "plugins",
       "version": "0.9.13.3"
+    },
+    {
+      "name": "QuickerStack.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/QuickerStack.dll",
+      "type": "plugins",
+      "version": "0.0.5"
     }
-
   ]
 }
