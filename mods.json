@@ -10,7 +10,7 @@
       "name": "EquipmentAndQuickSlots.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/EquipmentAndQuickSlots.dll",
       "type": "plugins",
-      "version": "1.0.0"
+      "version": "2.1.13"
     },
     {
       "name": "MarketplaceAndServerNPCsRevamped.zip",
@@ -119,12 +119,6 @@
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/ValheimPlus.dll",
       "type": "plugins",
       "version": "0.9.13.3"
-    },
-    {
-      "name": "QuickerStack.dll",
-      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/QuickerStack.dll",
-      "type": "plugins",
-      "version": "0.0.5"
     }
   ]
 }
