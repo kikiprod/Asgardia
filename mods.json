@@ -100,7 +100,7 @@
       "name": "ExpandWorld.zip",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/ExpandWorld.zip",
       "type": "plugins",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
     {
       "name": "expand_world_data.zip",
@@ -118,7 +118,13 @@
       "name": "ValheimPlus.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/ValheimPlus.dll",
       "type": "plugins",
-      "version": "0.9.13.3"
+      "version": "0.9.14.0"
+    },
+    {
+      "name": "valheim_plus.cfg",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/config/valheim_plus.cfg",
+      "type": "config",
+      "version": "0.9.14.0"
     }
   ]
 }
