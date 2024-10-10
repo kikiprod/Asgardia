@@ -109,6 +109,12 @@
       "version": "1.0.0"
     },
     {
+      "name": "AdventureBackpacks.zip",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/AdventureBackpacks.zip",
+      "type": "plugins",
+      "version": "1.7.6"
+    },
+    {
       "name": "Valheim.DisplayBepInExInfo.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/Valheim.DisplayBepInExInfo.dll",
       "type": "plugins",
