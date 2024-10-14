@@ -137,6 +137,11 @@
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/MagicalMountsNoMagical.dll",
       "type": "plugins",
       "version": "2.0.0"
+    },{
+      "name": "YouAreBeingWatched.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/YouAreBeingWatched.dll",
+      "type": "plugins",
+      "version": "1.0.2"
     },
     {
       "name": "Valheim.DisplayBepInExInfo.dll",
