@@ -120,7 +120,7 @@
       "type": "plugins",
       "version": "1.16.1"
     },
-     {
+    {
       "name": "AlmanacClasses.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/AlmanacClasses.dll",
       "type": "plugins",
@@ -131,6 +131,12 @@
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/config/RustyMods.AlmanacClasses.cfg",
       "type": "config",
       "version": "0.5.5"
+    },
+    {
+      "name": "MagicalMountsNoMagical.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/MagicalMountsNoMagical.dll",
+      "type": "plugins",
+      "version": "2.0.0"
     },
     {
       "name": "Valheim.DisplayBepInExInfo.dll",
@@ -154,7 +160,7 @@
       "name": "specials.zip",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/specials.zip",
       "type": "plugins",
-      "version": "1.7.6"
+      "version": "0.0.1"
     }
   ]
 }
