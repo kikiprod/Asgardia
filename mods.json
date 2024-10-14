@@ -149,6 +149,12 @@
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/config/valheim_plus.cfg",
       "type": "config",
       "version": "0.9.14.0"
+    },
+    {
+      "name": "specials.zip",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/specials.zip",
+      "type": "plugins",
+      "version": "1.7.6"
     }
   ]
 }
