@@ -169,6 +169,12 @@
       "version": "0.1.7"
     },
     {
+      "name": "RustyMods.AlmanacClasses.cfg",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/config/RustyMods.VikingNPC.cfg",
+      "type": "config",
+      "version": "0.1.7"
+    },
+    {
       "name": "Guilds.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/Guilds.dll",
       "type": "plugins",
