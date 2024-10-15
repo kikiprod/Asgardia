@@ -67,10 +67,10 @@
       "version": "1.7.12"
     },
     {
-      "name": "custom_raids.supplemental.odin.cfg",
-      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/config/custom_raids.supplemental.odin.cfg",
+      "name": "custom_raids.zip",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/config/custom_raids.zip",
       "type": "config",
-      "version": "1.0.0"
+      "version": "1.7.12"
     },
     {
       "name": "Advize_PlantEverything.dll",
