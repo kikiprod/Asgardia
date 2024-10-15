@@ -1,8 +1,8 @@
 {
-    "current_version": "1.0.0",
+    "current_version": "1.0.0.1",
     "update_info": {
-      "version": "1.0.0",
-      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/Les_Brumes_Eternelles_Launcher.exe",
+      "version": "1.0.0.2",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/launcher.zip",
       "release_notes": "Update description and release notes."
     }
   }
