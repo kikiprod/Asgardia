@@ -163,8 +163,8 @@
       "version": "0.4.5"
     },
     {
-      "name": "VikingNPC.dll",
-      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/VikingNPC.dll",
+      "name": "VikingNPC.dll.old",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/VikingNPC.dll.old",
       "type": "plugins",
       "version": "0.1.7"
     },
