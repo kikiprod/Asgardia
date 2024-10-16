@@ -187,18 +187,6 @@
       "version": "1.5.0"
     },
     {
-      "name": "VAC.dll",
-      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/VAC.dll",
-      "type": "plugins",
-      "version": "0.0.7"
-    },
-    {
-      "name": "vac.cfg",
-      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/config/vac.cfg",
-      "type": "config",
-      "version": "0.0.7"
-    },
-    {
       "name": "Valheim.DisplayBepInExInfo.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/Valheim.DisplayBepInExInfo.dll",
       "type": "plugins",
