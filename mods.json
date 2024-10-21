@@ -139,9 +139,15 @@
       "version": "0.5.5"
     },
     {
-      "name": "MagicalMountsNoMagical.dll",
-      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/MagicalMountsNoMagical.dll",
+      "name": "MagicalMountsNoCrafting.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/MagicalMountsNoCrafting.dll",
       "type": "plugins",
+      "version": "2.0.0"
+    },
+    {
+      "name": "CookieMilk.MagicalMountsNoCrafting.cfg",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/config/CookieMilk.MagicalMountsNoCrafting.cfg",
+      "type": "config",
       "version": "2.0.0"
     },
     {
@@ -167,6 +173,12 @@
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/Guilds.dll",
       "type": "plugins",
       "version": "1.1.9"
+    },
+    {
+      "name": "DungeonSplitter.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/DungeonSplitter.dll",
+      "type": "plugins",
+      "version": "1.5.0"
     },
     {
       "name": "NoMoreCrashes.dll",
