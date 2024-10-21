@@ -185,6 +185,18 @@
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/NoMoreCrashes.dll",
       "type": "plugins",
       "version": "1.5.0"
+    },  
+    {
+      "name": "ServerCharacters.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/ServerCharacters.dll",
+      "type": "plugins",
+      "version": "1.1.2"
+    },
+    {
+      "name": "PlayerActivity.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/PlayerActivity.dll",
+      "type": "plugins",
+      "version": "1.1.2"
     },
     {
       "name": "Valheim.DisplayBepInExInfo.dll",
