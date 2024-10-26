@@ -175,10 +175,22 @@
       "version": "1.5.0"
     },
     {
+      "name": "DragonRiders.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/DragonRiders.dll",
+      "type": "plugins",
+      "version": "1.6.0"
+    },
+    {
       "name": "NoMoreCrashes.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/NoMoreCrashes.dll",
       "type": "plugins",
       "version": "1.5.0"
+    },
+    {
+      "name": "YouAreBeingWatched.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/YouAreBeingWatched.dll",
+      "type": "plugins",
+      "version": "1.0.2"
     },  
     {
       "name": "ServerCharacters.dll",
