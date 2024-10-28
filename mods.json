@@ -181,6 +181,12 @@
       "version": "1.6.0"
     },
     {
+      "name": "SeaAnimals.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/SeaAnimals.dll",
+      "type": "plugins",
+      "version": "0.2.6"
+    },    
+    {
       "name": "OreMines.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/OreMines.dll",
       "type": "plugins",
