@@ -181,6 +181,18 @@
       "version": "1.6.0"
     },
     {
+      "name": "OreMines.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/OreMines.dll",
+      "type": "plugins",
+      "version": "1.0.7"
+    },
+    {
+      "name": "OreMines.French.yml",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/config/OreMines.French.yml",
+      "type": "config",
+      "version": "1.0.7"
+    },
+    {
       "name": "NoMoreCrashes.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/NoMoreCrashes.dll",
       "type": "plugins",
