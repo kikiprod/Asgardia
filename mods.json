@@ -10,7 +10,7 @@
       "name": "EquipmentAndQuickSlots.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/EquipmentAndQuickSlots.dll",
       "type": "plugins",
-      "version": "2.1.13"
+      "version": "2.1.14"
     },
     {
       "name": "MarketplaceAndServerNPCsRevamped.zip",
@@ -160,7 +160,7 @@
       "name": "OdinShip.zip",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/OdinShip.zip",
       "type": "plugins",
-      "version": "0.4.5"
+      "version": "0.4.6"
     },
     {
       "name": "Guilds.dll",
