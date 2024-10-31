@@ -22,13 +22,13 @@
       "name": "Jotunn.zip",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/Jotunn.zip",
       "type": "plugins",
-      "version": "2.21.1"
+      "version": "2.21.2"
     },
     {
       "name": "Seasonality.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/Seasonality.dll",
       "type": "plugins",
-      "version": "3.4.5"
+      "version": "3.4.6"
     },
     {
       "name": "Seasonality.zip",
@@ -64,7 +64,7 @@
       "name": "Valheim.CustomRaids.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/Valheim.CustomRaids.dll",
       "type": "plugins",
-      "version": "1.7.12"
+      "version": "1.7.13"
     },
     {
       "name": "custom_raids.zip",
@@ -106,7 +106,7 @@
       "name": "ExpandWorld.zip",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/ExpandWorld.zip",
       "type": "plugins",
-      "version": "1.0.2"
+      "version": "1.10.0"
     },
     {
       "name": "expand_world_data.zip",
@@ -124,7 +124,7 @@
       "name": "ValheimArmory.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/ValheimArmory.dll",
       "type": "plugins",
-      "version": "1.16.5"
+      "version": "1.17.0"
     },
     {
       "name": "AlmanacClasses.dll",
@@ -142,7 +142,7 @@
       "name": "MagicalMountsNoMagical.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/MagicalMountsNoMagical.dll",
       "type": "plugins",
-      "version": "2.0.1"
+      "version": "2.0.2"
     },
     {
       "name": "CookieMilk.MagicalMountsNoCrafting.cfg",
@@ -190,13 +190,13 @@
       "name": "OreMines.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/OreMines.dll",
       "type": "plugins",
-      "version": "1.0.7"
+      "version": "1.0.8"
     },
     {
       "name": "OreMines.French.yml",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/config/OreMines.French.yml",
       "type": "config",
-      "version": "1.0.7"
+      "version": "1.0.8"
     },
     {
       "name": "NoMoreCrashes.dll",
@@ -208,7 +208,7 @@
       "name": "YouAreBeingWatched.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/YouAreBeingWatched.dll",
       "type": "plugins",
-      "version": "1.0.2"
+      "version": "1.0.3"
     },  
     {
       "name": "ServerCharacters.dll",
@@ -232,7 +232,7 @@
       "name": "specials.zip",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/specials.zip",
       "type": "plugins",
-      "version": "0.0.2"
+      "version": "1.0.4"
     }
   ]
 }
