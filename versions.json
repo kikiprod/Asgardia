@@ -1,5 +1,4 @@
 {
-    "launcherVersion": "1.0.0",
-    "bepInExVersion": "5.4.0"
-  }
-  
+  "latest_version": "5.4.19",
+  "url": "https://github.com/BepInEx/BepInEx/releases/download/5.4.19/BepInEx_pack_5.4.19.zip"
+}
