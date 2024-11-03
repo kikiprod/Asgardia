@@ -64,7 +64,7 @@
       "name": "CW_Jesse.BetterNetworking.cfg",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/config/CW_Jesse.BetterNetworking.cfg",
       "type": "config",
-      "version": "1.0.0"
+      "version": "2.3.2"
     },
     {
       "name": "Valheim.CustomRaids.dll",
@@ -106,7 +106,7 @@
       "name": "ColoredFoodUI.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/ColoredFoodUI.dll",
       "type": "plugins",
-      "version": "0.1.1"
+      "version": "0.2.0"
     },
     {
       "name": "ExpandWorld.zip",
@@ -136,7 +136,7 @@
       "name": "AlmanacClasses.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/AlmanacClasses.dll",
       "type": "plugins",
-      "version": "0.5.6"
+      "version": "0.5.7"
     },
     {
       "name": "RustyMods.AlmanacClasses.cfg",
@@ -220,13 +220,13 @@
       "name": "ServerCharacters.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/ServerCharacters.dll",
       "type": "plugins",
-      "version": "1.1.2"
+      "version": "1.4.14"
     },
     {
       "name": "PlayerActivity.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/PlayerActivity.dll",
       "type": "plugins",
-      "version": "1.1.2"
+      "version": "1.1.4"
     },
     {
       "name": "Valheim.DisplayBepInExInfo.dll",
