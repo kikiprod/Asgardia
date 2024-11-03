@@ -49,6 +49,12 @@
       "version": "1.6.0"
     },
     {
+      "name": "Network.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/Network.dll",
+      "type": "plugins",
+      "version": "1.0.2"
+    },
+    {
       "name": "CW_Jesse.BetterNetworking.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/CW_Jesse.BetterNetworking.dll",
       "type": "plugins",
@@ -185,7 +191,7 @@
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/SeaAnimals.dll",
       "type": "plugins",
       "version": "0.2.6"
-    },    
+    },
     {
       "name": "OreMines.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/OreMines.dll",
@@ -209,7 +215,7 @@
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/YouAreBeingWatched.dll",
       "type": "plugins",
       "version": "1.0.3"
-    },  
+    },
     {
       "name": "ServerCharacters.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/ServerCharacters.dll",
