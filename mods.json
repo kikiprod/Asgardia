@@ -130,7 +130,7 @@
       "name": "ValheimArmory.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/ValheimArmory.dll",
       "type": "plugins",
-      "version": "1.17.0"
+      "version": "1.17.1"
     },
     {
       "name": "AlmanacClasses.dll",
@@ -143,6 +143,18 @@
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/config/RustyMods.AlmanacClasses.cfg",
       "type": "config",
       "version": "0.5.7.2"
+    },
+    {
+      "name": "AzuClock.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/AzuClock.dll",
+      "type": "plugins",
+      "version": "1.0.4"
+    },
+    {
+      "name": "Azumatt.AzuClock.cfg",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/config/Azumatt.AzuClock.cfg",
+      "type": "config",
+      "version": "1.0.4"
     },
     {
       "name": "MagicalMountsNoMagical.dll",
