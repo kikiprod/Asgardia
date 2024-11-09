@@ -1,0 +1,14 @@
+{
+    "mods": [
+      {
+        "name": "AzuAnticheat.dll",
+        "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/AzuAnticheat.dll",
+        "version": "4.3.8"
+      },
+      {
+        "name": "EquipmentAndQuickSlots.dll",
+        "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/EquipmentAndQuickSlots.dll",
+        "version": "2.1.14"
+      }
+    ]
+  }

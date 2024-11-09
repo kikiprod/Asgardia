@@ -235,6 +235,12 @@
       "version": "1.1.4"
     },
     {
+      "name": "BuildingProtection.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/BuildingProtection.dll",
+      "type": "plugins",
+      "version": "2.0.5"
+    },
+    {
       "name": "Valheim.DisplayBepInExInfo.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/Valheim.DisplayBepInExInfo.dll",
       "type": "plugins",
