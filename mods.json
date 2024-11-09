@@ -241,6 +241,12 @@
       "version": "2.0.5"
     },
     {
+      "name": "TerrainTools.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/TerrainTools.dll",
+      "type": "plugins",
+      "version": "1.4.0"
+    },
+    {
       "name": "Valheim.DisplayBepInExInfo.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/Valheim.DisplayBepInExInfo.dll",
       "type": "plugins",
