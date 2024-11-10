@@ -229,12 +229,6 @@
       "version": "1.1.6"
     },
     {
-      "name": "Valkea.zip",
-      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/Valkea.zip",
-      "type": "plugins",
-      "version": "1.1.6"
-    },
-    {
       "name": "LongerDays.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/LongerDays.dll",
       "type": "plugins",
