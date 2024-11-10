@@ -211,6 +211,42 @@
       "version": "1.0.8"
     },
     {
+      "name": "LocalizationCache.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/LocalizationCache.dll",
+      "type": "plugins",
+      "version": "0.3.0"
+    },
+    {
+      "name": "FineWoodPieces.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/FineWoodPieces.dll",
+      "type": "plugins",
+      "version": "1.1.0"
+    },
+    {
+      "name": "FineWoodBuildPieces.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/FineWoodBuildPieces.dll",
+      "type": "plugins",
+      "version": "1.1.6"
+    },
+    {
+      "name": "Valkea.zip",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/Valkea.zip",
+      "type": "plugins",
+      "version": "1.1.6"
+    },
+    {
+      "name": "LongerDays.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/LongerDays.dll",
+      "type": "plugins",
+      "version": "1.2.0"
+    },
+    {
+      "name": "AutoFollowPath.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/AutoFollowPath.dll",
+      "type": "plugins",
+      "version": "1.6.7"
+    },
+    {
       "name": "NoMoreCrashes.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/NoMoreCrashes.dll",
       "type": "plugins",
