@@ -7,6 +7,12 @@
       "version": "4.3.8"
     },
     {
+      "name": "AzuAntiArthriticCrafting.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/AzuAntiArthriticCrafting.dll",
+      "type": "plugins",
+      "version": "1.5.8"
+    },
+    {
       "name": "EquipmentAndQuickSlots.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/EquipmentAndQuickSlots.dll",
       "type": "plugins",
@@ -16,7 +22,7 @@
       "name": "MarketplaceAndServerNPCsRevamped.zip",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/MarketplaceAndServerNPCsRevamped.zip",
       "type": "plugins",
-      "version": "9.3.3.1"
+      "version": "9.4.2"
     },
     {
       "name": "Jotunn.zip",
@@ -160,7 +166,7 @@
       "name": "MagicalMountsNoMagical.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/MagicalMountsNoMagical.dll",
       "type": "plugins",
-      "version": "2.0.4"
+      "version": "2.0.5"
     },
     {
       "name": "CookieMilk.MagicalMountsNoCrafting.cfg",
