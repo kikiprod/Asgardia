@@ -223,12 +223,6 @@
       "version": "1.1.0"
     },
     {
-      "name": "FineWoodBuildPieces.dll",
-      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/FineWoodBuildPieces.dll",
-      "type": "plugins",
-      "version": "1.1.6"
-    },
-    {
       "name": "LongerDays.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/LongerDays.dll",
       "type": "plugins",
