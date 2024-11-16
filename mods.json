@@ -22,7 +22,7 @@
       "name": "MarketplaceAndServerNPCsRevamped.zip",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/MarketplaceAndServerNPCsRevamped.zip",
       "type": "plugins",
-      "version": "9.4.2"
+      "version": "9.4.3"
     },
     {
       "name": "Jotunn.zip",
@@ -39,6 +39,30 @@
     {
       "name": "Seasonality.zip",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/config/Seasonality.zip",
+      "type": "config",
+      "version": "1.0.1"
+    },
+    {
+      "name": "Armory.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/Armory.dll",
+      "type": "plugins",
+      "version": "1.2.8"
+    },
+    {
+      "name": "Monstrum.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/Armory.dll",
+      "type": "plugins",
+      "version": "1.4.6"
+    },
+    {
+      "name": "Warfare.dll",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/Armory.dll",
+      "type": "plugins",
+      "version": "1.8.1"
+    },
+    {
+      "name": "TherzieTranslations.zip",
+      "url": "https://github.com/kikiprod/Asgardia/raw/main/files/config/TherzieTranslations.zip",
       "type": "config",
       "version": "1.0.1"
     },
@@ -136,7 +160,7 @@
       "name": "ValheimArmory.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/ValheimArmory.dll",
       "type": "plugins",
-      "version": "1.17.1"
+      "version": "1.17.2"
     },
     {
       "name": "AlmanacClasses.dll",
@@ -208,7 +232,7 @@
       "name": "OreMines.dll",
       "url": "https://github.com/kikiprod/Asgardia/raw/main/files/plugins/OreMines.dll",
       "type": "plugins",
-      "version": "1.0.8"
+      "version": "1.0.9"
     },
     {
       "name": "OreMines.French.yml",
