@@ -1,10 +1,10 @@
 {
   "bepinex": {
     "latest_version": "5.4.22.0",
-    "url": "https://github.com/kikiprod/Asgardia/raw/main/files/BepInEx.zip"
+    "url": "http://185.223.29.126:9999/launcher/BepInEx.zip"
   },
   "launcher": {
-    "latest_version": "1.0.0.6",
-    "url": "https://github.com/kikiprod/Asgardia/raw/main/files/launcher.zip"
+    "latest_version": "1.0.0.6.1",
+    "url": "http://185.223.29.126:9999/launcher/launcher.zip"
   }
 }
